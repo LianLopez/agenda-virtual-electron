@@ -1,0 +1,23 @@
+{
+  "name": "agenda-electron",
+  "version": "1.0.0",
+  "description": "Agenda programada en electron, nodejs y mysql",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^7.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LianLopez/agenda-virtual-electron.git"
+  },
+  "author": "Leonardo Lopez (LianLpz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LianLopez/agenda-virtual-electron/issues"
+  },
+  "homepage": "https://github.com/LianLopez/agenda-virtual-electron#readme"
+}
