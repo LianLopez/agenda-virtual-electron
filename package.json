@@ -2,13 +2,13 @@
   "name": "agenda-electron",
   "version": "1.0.0",
   "description": "Agenda programada en electron, nodejs y mysql",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {
     "electron": "^7.1.7"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "run"
+    "start": "electron main.js"
   },
   "repository": {
     "type": "git",
